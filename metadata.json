@@ -1,0 +1,5 @@
+{
+  "name": "AnkiGen - Anki TTS Generator",
+  "description": "Generate Japanese vocabulary cards with native-sounding AI audio and example sentences for your Anki decks.",
+  "requestFramePermissions": []
+}
